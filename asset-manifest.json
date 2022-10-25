@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hd_web_react/static/css/main.7cab6a6a.css",
-    "main.js": "/hd_web_react/static/js/main.3e2feb7c.js",
-    "static/media/main_visual01.jpg": "/hd_web_react/static/media/main_visual01.b8894172143185ca6316.jpg",
-    "static/media/main_visual02.jpg": "/hd_web_react/static/media/main_visual02.c364a3ad2ae4f6644470.jpg",
-    "static/media/main_visual03.jpg": "/hd_web_react/static/media/main_visual03.3131c222b1291255b096.jpg",
-    "static/media/section1_bg.jpg": "/hd_web_react/static/media/section1_bg.8d14bfea11d9ba6e1ccb.jpg",
-    "static/media/section4_bg.jpg": "/hd_web_react/static/media/section4_bg.79194ed85bc97bb5e056.jpg",
-    "index.html": "/hd_web_react/index.html",
-    "main.7cab6a6a.css.map": "/hd_web_react/static/css/main.7cab6a6a.css.map",
-    "main.3e2feb7c.js.map": "/hd_web_react/static/js/main.3e2feb7c.js.map"
+    "main.css": "/hyundaielevator/static/css/main.0b16eeb3.css",
+    "main.js": "/hyundaielevator/static/js/main.4aad107d.js",
+    "static/media/main_visual01.jpg": "/hyundaielevator/static/media/main_visual01.b8894172143185ca6316.jpg",
+    "static/media/main_visual02.jpg": "/hyundaielevator/static/media/main_visual02.c364a3ad2ae4f6644470.jpg",
+    "static/media/main_visual03.jpg": "/hyundaielevator/static/media/main_visual03.3131c222b1291255b096.jpg",
+    "static/media/section1_bg.jpg": "/hyundaielevator/static/media/section1_bg.8d14bfea11d9ba6e1ccb.jpg",
+    "static/media/section4_bg.jpg": "/hyundaielevator/static/media/section4_bg.79194ed85bc97bb5e056.jpg",
+    "index.html": "/hyundaielevator/index.html",
+    "main.0b16eeb3.css.map": "/hyundaielevator/static/css/main.0b16eeb3.css.map",
+    "main.4aad107d.js.map": "/hyundaielevator/static/js/main.4aad107d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cab6a6a.css",
-    "static/js/main.3e2feb7c.js"
+    "static/css/main.0b16eeb3.css",
+    "static/js/main.4aad107d.js"
   ]
 }
